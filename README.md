@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sabircodes
-- 👀 I’m interested in Learnig new tech 
-- 😉 connoisseur of procastination
-- ⭐ have some ecxperience in front-end web development
-- 🌱 I’m currently learning Node js for backend
+- 👋 Hi, I’m Sabir
+- 😉 full-stack developer
+- 🌱 love solving DSA questions 
 - 📫 Reach me at : smdakhtar007@gmail.com
 - 📫 Reach me on instagram  at : @whois_sabir 
 
