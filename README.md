@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Sabir
 - 😉 full-stack developer
-- 🌱 love solving DSA questions 
+- 🌱 By honing my DSA skills, I have been able to consistently deliver efficient and effective solutions to various programming problems
+- leetcode - https://leetcode.com/sabircodes/
+- GFG - https://auth.geeksforgeeks.org/user/sabir_codes/practice/
 - 📫 Reach me at : smdakhtar007@gmail.com
 - 📫 Reach me on instagram  at : @whois_sabir 
 
