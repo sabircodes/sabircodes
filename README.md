@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabir Akhtar</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
-<a href=""https://sabirakhtar.vercel.app/>Portfolio</a>
+<a href="https://sabirakhtar.vercel.app"/>Portfolio</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabircodes&label=Profile%20views&color=0e75b6&style=flat" alt="sabircodes" /> </p>
 
